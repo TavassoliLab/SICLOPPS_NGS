@@ -11,4 +11,5 @@ Alexander McDermott,1,# Leonie Windeln,1,# Jacob Valentine,1 Leonardo Baldassarr
 Jupyter notebooks:
 
 Analyse NGS: Reads in the FASTA file and performs some initial analysis.
+
 Scan peptides: Creates sequence logos from the saved dataframe - using the logomaker package. (Tareen A, Kinney JB (2019) Logomaker: beautiful sequence logos in Python. Bioinformatics btz921. bioRxiv doi:10.1101/635029.)
