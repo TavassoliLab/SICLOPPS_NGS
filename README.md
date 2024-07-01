@@ -2,10 +2,15 @@
 
 Data analysis pipeline to complement the paper: 
 Next Generation SICLOPPS Screening for the Identification of inhibitors of the HIF-1a/HIF-1b protein-protein interaction 
+
+DOI: XX.XXXX/XXXXXX
+
 Alexander McDermott,1,# Leonie Windeln,1,# Jacob Valentine,1 Leonardo Baldassarre,2 Andrew Foster,1 and Ali Tavassoli1,* 
 1School of Chemistry, University of Southampton, Southampton, SO17 1BJ, U.K. 
-2Curve Therapeutics, Delta House, Southampton Science Park, Southampton, SO16 7NS, U.K. 
+2Curve Therapeutics, Delta House, Southampton Science Park, Southampton, SO16 7NS, U.K.
+
 #authors contributed equally to this work 
+
 *e-mail: ali1@soton.ac.uk 
 
 Jupyter notebooks:
