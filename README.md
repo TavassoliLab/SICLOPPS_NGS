@@ -15,6 +15,8 @@ Alexander McDermott,1,# Leonie Windeln,1,# Jacob Valentine,1 Leonardo Baldassarr
 
 Jupyter notebooks:
 
-Analyse NGS: Reads in the FASTA file and performs some initial analysis.
+Process_raw_sequencing_data: Reads in the FASTA file and performs some initial analysis. This is mainly raw data processing and can be adjusted for other sequencing setups by changing the writefiles function. This mainly relies on biopython for parsing the Fastq files.
+
+Analyse_enrichment: Takes dataframes of cleaned data and does some further enrichment analysis. This also contains the clustering code. Scipy, sklearn, and radialtree are used here.
 
 Scan peptides: Creates sequence logos from the saved dataframe - using the logomaker package. (Tareen A, Kinney JB (2019) Logomaker: beautiful sequence logos in Python. Bioinformatics btz921. bioRxiv doi:10.1101/635029.)
